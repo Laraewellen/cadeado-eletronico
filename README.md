@@ -50,7 +50,15 @@ Criamos um **cadeado eletrônico com controle por RFID**, utilizando um **displa
 
 ## 👥 Equipe
 
-Projeto realizado por um grupo de formandos do curso técnico em Eletrônica do **Instituto Federal de Brasília (IFB)**.
+Projeto realizado por 
+- Lara Ewellen De Carvalho Rocha.
+- Leonan Teixeira De Jesus.
+- Kayke Andrade Dantas.
+- Ana Eliza Moreira Santos Rodrigues.
+- Leticia Coelho Brito.
+- Pedro Henrique Sousa Aguiar.
+
+do curso técnico em Eletrônica do **Instituto Federal de Brasília (IFB)**.
 
 ## 🧾 Licença
 
