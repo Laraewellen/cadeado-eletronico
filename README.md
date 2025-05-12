@@ -45,7 +45,8 @@ Criamos um **cadeado eletrônico com controle por RFID**, utilizando um **displa
 
 ## 📸 Demonstração
 
-> (Você pode inserir aqui uma imagem ou GIF mostrando o funcionamento do cofre, se quiser)
+
+![gif do projeto](./imagens/IMG_8924.gif)
 
 ## 👥 Equipe
 
