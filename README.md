@@ -19,7 +19,7 @@ Criamos um **cadeado eletrônico com controle por RFID**, utilizando um **displa
 
 ## ⚙️ Componentes Utilizados
 
-- 🔄 **Arduino UNO ou ESP32**
+- 🔄 **Arduino**
 - 🔒 **Trava solenoide**
 - 💳 **Leitor RFID RC522**
 - 📟 **Display LCD 16x2 com I2C**
